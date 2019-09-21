@@ -1,3 +1,5 @@
+Forked from [zeit/next-plugins](https://github.com/zeit/next-plugins).
+
 # Next.js + Less
 
 Import `.less` files in your Next.js project
